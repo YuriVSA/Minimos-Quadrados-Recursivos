@@ -12,7 +12,7 @@ O algoritmo de **Mínimos Quadrados Recursivos (MQR)** é um método adaptativo 
 
 ---
 
-## Como Usar
+## Como utilizar
 
 Siga os passos abaixo para executar o projeto no seu ambiente local.
 
@@ -78,3 +78,4 @@ Os scripts secundários: gerarDadosPrecal.py e leitorCsv.py funcionam, respectiv
 * **NumPy:** Para cálculos numéricos e manipulação de vetores/matrizes.
 * **Matplotlib:** Para a visualização dos dados e resultados.
 * **Pandas:** Para carregar os dados csv.
+
