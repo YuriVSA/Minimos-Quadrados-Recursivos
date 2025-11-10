@@ -1,6 +1,6 @@
 # Implementação do Mínimos Quadrados Recursivos (MQR)
 
-Este projeto é parte do meu repositório em **pyDataAnalysis**. O objetivo é implementar o algoritmo de Mínimos Quadrados Recursivos (MQR ou RLS - *Recursive Least Squares*) em Python para estimar os parâmetros de um sistema dinâmico.
+Este projeto é parte do meu estudo em Analise de Dados e Sistemas. O objetivo é implementar o algoritmo de Mínimos Quadrados Recursivos (MQR ou RLS - *Recursive Least Squares*) em Python para estimar os parâmetros de um sistema dinâmico.
 
 ---
 
